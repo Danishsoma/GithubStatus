@@ -5,3 +5,5 @@
 # gitstatus
 
 # gittg
+
+# danish soma 112
